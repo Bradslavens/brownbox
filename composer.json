@@ -1,4 +1,11 @@
 {
+    "name": "ubuntu/workspace",
+    "authors": [
+        {
+            "name": "Brad Slavens",
+            "email": "bradslavens@gmail.com"
+        }
+    ],
     "require": {
         "vlucas/phpdotenv": "^3.3"
     }
